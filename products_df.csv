@@ -1,0 +1,31 @@
+Product_ID,Product_Name,Category,Product_Description,Brand_Name,Storage_Size,RAM_Size,Word_Count,lightweight,pro,ram,storage,waterproof,16gb storage,adjustable height,battery life,long battery,rate monitor,Entities,Noun_Count,Verb_Count,Adjective_Count
+1,Product_1,Electronics,"BrandX SuperWidget 2000 - High Performance, 32GB RAM, 256GB SSD",BrandX,32GB,32GB RAM,10,0.0,0.0,1.0,0.0,0.0,0,0,0,0,0,"[('32', 'CARDINAL'), ('GB', 'GPE'), ('RAM', 'ORG'), ('256', 'CARDINAL'), ('GB', 'GPE')]",1,0,0
+2,Product_2,Electronics,"BrandY MegaPhone Pro - Lightweight, 128GB Storage, 6GB RAM",BrandY,128GB,6GB RAM,9,0.5233514547362399,0.5233514547362399,0.489569692723298,0.4610076199128802,0.0,0,0,0,0,0,"[('128', 'CARDINAL'), ('GB Storage', 'PERSON'), ('6', 'CARDINAL'), ('GB', 'GPE'), ('RAM', 'ORG')]",2,0,0
+3,Product_3,Electronics,"BrandZ PowerTablet - 16GB Storage, 2GB RAM, 10-inch display",BrandZ,16GB,2GB RAM,9,0.0,0.0,0.7280247093453642,0.6855508898561783,0.0,1,0,0,0,0,"[('GB Storage', 'GPE'), ('2', 'CARDINAL'), ('GB', 'GPE'), ('RAM', 'ORG'), ('10-inch', 'QUANTITY')]",2,0,0
+4,Product_4,Electronics,"BrandA UltraCamera - Professional, 64MP, 4K Video, 128GB Storage",BrandA,128GB,,9,0.0,0.0,0.0,1.0,0.0,0,0,0,0,0,"[('UltraCamera - Professional', 'ORG'), ('64MP', 'DATE'), ('4', 'CARDINAL'), ('K Video', 'ORG'), ('128', 'CARDINAL'), ('GB', 'GPE')]",1,0,0
+5,Product_5,Electronics,"BrandB SmartWatch 3 - GPS, Heart Rate Monitor, 16GB Storage",BrandB,16GB,,10,0.0,0.0,0.0,1.0,0.0,1,0,0,0,1,"[('3', 'CARDINAL'), ('16', 'CARDINAL'), ('GB', 'GPE')]",1,0,0
+6,Product_6,Electronics,"BrandC LightLaptop 2023 - 8GB RAM, 512GB SSD, Touchscreen",BrandC,8GB,8GB RAM,9,0.0,0.0,1.0,0.0,0.0,0,0,0,0,0,"[('GB', 'GPE'), ('RAM', 'ORG'), ('512', 'CARDINAL'), ('GB', 'GPE')]",0,0,0
+7,Product_7,Electronics,"BrandD EcoVacuum Pro - 1200W, Cordless, Long Battery Life",BrandD,,,9,0.0,1.0,0.0,0.0,0.0,0,0,1,1,0,"[('EcoVacuum Pro - 1200W', 'ORG')]",1,0,0
+8,Product_8,Electronics,"BrandE SoundMax Speaker - Wireless, 20W Output, Bluetooth",BrandE,,,8,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,"[('20W', 'CARDINAL')]",0,0,1
+9,Product_9,Clothing,"BrandF ActiveRunner Shoes - Lightweight, Waterproof, Breathable",BrandF,,,7,0.7071067811865476,0.0,0.0,0.0,0.7071067811865476,0,0,0,0,0,"[('BrandF ActiveRunner', 'PERSON')]",0,0,0
+10,Product_10,Clothing,"BrandG TravelBackpack - 40L, Water-Resistant, Padded Straps",BrandG,,,7,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,"[('TravelBackpack - 40L', 'PRODUCT'), ('Water-Resistant', 'ORG')]",1,0,1
+11,Product_11,Clothing,"BrandH YogaMat Pro - Non-slip, Eco-Friendly, 5mm Thickness",BrandH,,,8,0.0,1.0,0.0,0.0,0.0,0,0,0,0,0,"[('YogaMat Pro - Non-slip', 'PERSON'), ('5mm', 'QUANTITY')]",3,0,1
+12,Product_12,Clothing,"BrandI RunningShoes - Shock Absorbing, Comfortable Fit",BrandI,,,7,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,"[('Comfortable Fit', 'PERSON')]",0,0,0
+13,Product_13,Electronics,"BrandJ ActionCamera X - 4K Video, Waterproof, 64GB Storage",BrandJ,64GB,,9,0.0,0.0,0.0,0.6609981779694486,0.7503875057069308,0,0,0,0,0,"[('ActionCamera X - 4', 'ORG'), ('Waterproof', 'GPE'), ('64', 'CARDINAL'), ('GB', 'GPE')]",1,0,0
+14,Product_14,Furniture,"BrandK OfficeDesk 2024 - Ergonomic, Adjustable Height, 150x70cm",BrandK,,,8,0.0,0.0,0.0,0.0,0.0,0,1,0,0,0,"[('Adjustable Height', 'PERSON'), ('150x70cm', 'QUANTITY')]",1,0,0
+15,Product_15,Furniture,"BrandL ChairMaster - Lumbar Support, Swivel, Adjustable Height",BrandL,,,8,0.0,0.0,0.0,0.0,0.0,0,1,0,0,0,"[('ChairMaster - Lumbar Support', 'ORG'), ('Adjustable Height', 'PERSON')]",0,0,0
+16,Product_16,Electronics,"BrandM GamingLaptop - 16GB RAM, 1TB SSD, RGB Keyboard",BrandM,16GB,16GB RAM,9,0.0,0.0,1.0,0.0,0.0,0,0,0,0,0,"[('GamingLaptop', 'ORG'), ('GB', 'GPE'), ('RAM', 'ORG'), ('1TB SSD', 'TIME')]",0,0,0
+17,Product_17,Electronics,"BrandN UltraMonitor - 27"", 144Hz, 4K UHD, 1ms Response Time",BrandN,,,10,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,"[('UltraMonitor - 27', 'LAW'), ('4', 'CARDINAL'), ('1ms', 'ORDINAL')]",0,0,0
+18,Product_18,Electronics,"BrandO PowerBank 10000mAh - Fast Charging, Dual USB Ports",BrandO,,,9,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,[],2,0,2
+19,Product_19,Electronics,"BrandP BluetoothHeadset - Noise Cancelling, Long Battery Life",BrandP,,,8,0.0,0.0,0.0,0.0,0.0,0,0,1,1,0,"[('BluetoothHeadset - Noise Cancelling', 'ORG')]",1,0,0
+20,Product_20,Clothing,"BrandQ HikingBoots - Waterproof, Durable, Ankle Support",BrandQ,,,7,0.0,0.0,0.0,0.0,1.0,0,0,0,0,0,"[('HikingBoots - Waterproof, Durable,', 'ORG')]",1,0,1
+21,Product_21,Electronics,"BrandR SportsWatch - GPS, Heart Rate Monitor, 32GB Storage",BrandR,32GB,,9,0.0,0.0,0.0,1.0,0.0,0,0,0,0,1,"[('32', 'CARDINAL'), ('GB', 'GPE')]",1,0,0
+22,Product_22,Electronics,"BrandS LaptopStand Pro - Adjustable, Lightweight, Portable",BrandS,,,7,0.7071067811865476,0.7071067811865476,0.0,0.0,0.0,0,0,0,0,0,"[('LaptopStand Pro - Adjustable', 'ORG'), ('Lightweight', 'GPE')]",0,0,0
+23,Product_23,Electronics,"BrandT WirelessMouse - Ergonomic Design, 3 Buttons, Bluetooth",BrandT,,,8,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,"[('WirelessMouse - Ergonomic Design', 'ORG'), ('3', 'CARDINAL')]",1,0,0
+24,Product_24,Electronics,"BrandU FitnessBand - Step Counter, Sleep Monitor, Bluetooth",BrandU,,,8,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,[],0,0,0
+25,Product_25,Clothing,"BrandV SmartLight - Color Changing, WiFi Enabled, 12W LED",BrandV,,,9,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,"[('WiFi Enabled', 'PERSON'), ('12W', 'GPE')]",1,0,0
+26,Product_26,Clothing,"BrandW BikeHelmet - Lightweight, Aerodynamic, 5 Air Vents",BrandW,,,8,1.0,0.0,0.0,0.0,0.0,0,0,0,0,0,"[('BikeHelmet - Lightweight, Aerodynamic', 'ORG'), ('5', 'CARDINAL')]",2,0,0
+27,Product_27,Clothing,"BrandX PortableGrill - Foldable, Charcoal, Stainless Steel",BrandX,,,7,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,"[('PortableGrill - Foldable', 'ORG'), ('Charcoal', 'ORG')]",0,0,0
+28,Product_28,Electronics,"BrandY HikingBackpack - 50L, Waterproof, Multiple Pockets",BrandY,,,7,0.0,0.0,0.0,0.0,1.0,0,0,0,0,0,"[('HikingBackpack - 50L', 'ORG')]",1,1,0
+29,Product_29,Clothing,"BrandZ FitnessMat - Non-slip, 10mm Thickness, Eco-Friendly",BrandZ,,,7,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,"[('FitnessMat - Non-slip', 'ORG'), ('10mm', 'QUANTITY')]",1,0,1
+30,Product_30,Electronics,"BrandA UltraMonitor - 32"", 120Hz, QHD, 5ms Response Time",BrandA,,,9,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,"[('UltraMonitor', 'ORG'), ('120Hz', 'DATE'), ('QHD', 'ORG'), ('5ms', 'ORDINAL')]",0,0,1
